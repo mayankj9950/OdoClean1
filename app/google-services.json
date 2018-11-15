@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:778249793570:android:030c7ef9992e593c",
         "android_client_info": {
-          "package_name": "com.odoclean"
+          "package_name": "com.example.mayank.odoclean"
         }
       },
       "oauth_client": [
@@ -18,13 +18,97 @@
           "client_id": "778249793570-a8fq3csltv88n4hng6vkng193lfq1co2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.odoclean",
+            "package_name": "com.example.mayank.odoclean",
             "certificate_hash": "7bee0dcdbe0444a9c6d97fcf1632e23e837d7fad"
           }
         },
         {
           "client_id": "778249793570-25mulqb416gq59lf6qqvkf9rkoq0vobe.apps.googleusercontent.com",
           "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMCXLDwdWBbTmuxpoJjt0_KiQNS9lZ5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778249793570-25mulqb416gq59lf6qqvkf9rkoq0vobe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778249793570:android:2df084c52a296ab6",
+        "android_client_info": {
+          "package_name": "com.example.mayank.odoclean_display"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778249793570-k1n3ndkfp45f9b2vm52ooiili2dmjjpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayank.odoclean_display",
+            "certificate_hash": "7bee0dcdbe0444a9c6d97fcf1632e23e837d7fad"
+          }
+        },
+        {
+          "client_id": "778249793570-25mulqb416gq59lf6qqvkf9rkoq0vobe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMCXLDwdWBbTmuxpoJjt0_KiQNS9lZ5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778249793570-25mulqb416gq59lf6qqvkf9rkoq0vobe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778249793570:android:b67b013ce4325c99",
+        "android_client_info": {
+          "package_name": "com.odoclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778249793570-s99tsiqneqpnt8gc78pb28ieqh8pi8k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odoclean",
+            "certificate_hash": "7bee0dcdbe0444a9c6d97fcf1632e23e837d7fad"
+          }
         },
         {
           "client_id": "778249793570-25mulqb416gq59lf6qqvkf9rkoq0vobe.apps.googleusercontent.com",

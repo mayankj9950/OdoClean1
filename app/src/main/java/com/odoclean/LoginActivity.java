@@ -46,13 +46,9 @@ public class LoginActivity extends Activity
             }
         });
 
-        WebView webView = (WebView) findViewById(R.id.webview);
 
 
-        WebSettings webSettings = webView.getSettings();
-        webSettings.setJavaScriptEnabled(true);
 
-        webView.loadUrl("https://www.google.com");
 
 
         btn_login.setOnClickListener(new View.OnClickListener() {
